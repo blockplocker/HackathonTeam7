@@ -1,0 +1,1422 @@
+ac_key,chassis_id,requested_date,machine_salesmodel,fault_code,description,state,correction,cause,cause_local_language,complaint,complaint_local_language,machine_hours
+AC0818296,L90H0138,2024-10-16T07:41:19Z,L90H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed,customer gave no details,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 11383002 (ELECTRONIC UNIT) 15188954 (RETURN VALVE) 15081288 (CONTROL VALVE) 15097478 (SOLENOID COIL)ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L90H013383
+C101C00
+Brake Pressure Leakage: Unknown
+5
+
+
+L90H013383
+P000F00
+Fuel System Over Pressure Relief ","Descrição(ões) do DTC: Descrição do alarme de erroC101C00 - Unidade de Controle Eletrônico de Máquina de Uso Geral 1 - Vazamento de Pressão de FreioLink da prosisDica: 17271141 (SENSOR DE PRESSÃO) 11383002 (UNIDADE ELETRÔNICA) 15188954 (VÁLVULA DE RETORNO) 15081288 (VÁLVULA DE CONTROLE) 15097478 (BOBINA SOLENÓIDE)INFORMAÇÕES ADICIONAIS : Outros erros de TC
+
+
+ID do chassi*
+Formato de falha 1
+Tipo de erro/alarme
+Nº de erros
+
+
+L90H013383
+C101C00
+Vazamento de pressão de freio: Desconhecid",8042
+AC0825262,L220H0518,2024-10-22T09:06:12Z,L220H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,"22/10/24 : BUFFIERE allo Serge RUMIANO 06-03-37-21-75, appointment for diagnostic intervention on 23/10/24.",,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP) 17235160 (CONTROL UNIT) 17271141 (PRESSURE SENSOR)SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L220H005187
+C101C00
+Brake Pressure Leakage: No additional information
+3
+
+
+L220H005187
+C104607","DESCRIPTION DU DTC : Description de l’alarme d’erreurC101C00 - Unité de commande électronique de machine à usage général 1 - Fuite de pression de freinageLien ProsisAstuce :17201756 (POMPE HYDRAULIQUE) 17235160 (UNITÉ DE COMMANDE) 17271141 (CAPTEUR DE PRESSION)LOGICIEL : Nouveau logiciel disponible, veuillez mettre à jour vers la dernière versionINFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+L220H005187
+C101",7465
+AC0829233,L220H0518,2024-10-25T06:31:33Z,L220H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed,"Error code observed during our intervention of 23/10/24 - OR24100382.
+Establishment estimate N°23108033 communicated to Serge RUMIANO 06-03-37-21-75 on 23/10/24.
+Accumulators, brake system + valve and pressure sensor.
+=> No sales order as of 25/10/24.",,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP) 17235160 (CONTROL UNIT) 17271141 (PRESSURE SENSOR)SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors    
+
+
+Chassis Id*
+Priority
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L220H005187
+1
+C101C00
+Brake Pressure Leakage: No additional information
+13
+
+
+L22","DESCRIPTION DU DTC : Description de l’alarme d’erreurC101C00 - Unité de commande électronique de machine à usage général 1 - Fuite de pression de freinageLien ProsisAstuce :17201756 (POMPE HYDRAULIQUE) 17235160 (UNITÉ DE COMMANDE) 17271141 (CAPTEUR DE PRESSION)LOGICIEL : Nouveau logiciel disponible, veuillez mettre à jour vers la dernière versionINFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT   
+
+
+ID du châssis*
+Priorité
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+L220",7487
+AC0844313,L150H0482,2024-11-08T12:31:51Z,L150H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Awaiting Acknowledgement,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+L150H014820
+RW007
+Recommended
+250846
+Machines delivered with WE","DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+L150H014820
+RW007
+Recommended
+250846
+Machines delivered with WE",17877
+AC0848234,L90H0138,2024-11-12T14:37:02Z,L90H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed Incomplete,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 11383002 (ELECTRONIC UNIT) 15188954 (RETURN VALVE) 15081288 (CONTROL VALVE) 15097478 (SOLENOID COIL)ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L90H013383
+C101C00
+Brake Pressure Leakage: No additional information
+6
+
+
+L90H013383
+P101400
+Unknown: No add","Descrição(ões) do DTC: Descrição do alarme de erroC101C00 - Unidade de Controle Eletrônico de Máquina de Uso Geral 1 - Vazamento de Pressão de FreioLink da prosisDica: 17271141 (SENSOR DE PRESSÃO) 11383002 (UNIDADE ELETRÔNICA) 15188954 (VÁLVULA DE RETORNO) 15081288 (VÁLVULA DE CONTROLE) 15097478 (BOBINA SOLENÓIDE)INFORMAÇÕES ADICIONAIS : Outros erros de TC
+
+
+ID do chassi*
+Formato de falha 1
+Tipo de erro/alarme
+Nº de erros
+
+
+L90H013383
+C101C00
+Vazamento de pressão de freio: Nenhuma inf",8150
+AC0856075,L150H0482,2024-11-19T16:45:44Z,L150H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+L150H014820
+RW007
+Recommended
+250846
+Machines delivered with WE","DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+L150H014820
+RW007
+Recommended
+250846
+Machines delivered with WE",18072
+AC0862954,A25G3559,2024-11-26T11:07:57Z,A25G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+A25G352599
+MID187PID1388PIDTYPE0FMI14
+Operator seat belt indication: Special instructions
+6
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Parking brake switch, status: Special instructions
+3
+
+
+A25G352599
+MID","DESCRIPTION DU DTC : Description de l’alarme d’erreurMID142 PSID4 FMI5 - W-ECU - Module/interface GPS : Courant inférieur à la normale ou circuit ouvertLien ProsisDéfaut actif pendant plus de 2 joursINFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+A25G352599
+MID187PID1388PIDTYPE0FMI14
+Indication de la ceinture de sécurité de l’opérateur : Instructions spéciales
+6
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Co",370
+AC0863021,L150H0482,2024-11-26T12:14:42Z,L150H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+L150H014820
+RW007
+Recommended
+250846
+Machines delivered with WE","DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17201756 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+L150H014820
+RW007
+Recommended
+250846
+Machines delivered with WE",18198
+AC0866675,A40G3247,2024-11-30T07:52:07Z,A40G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysSOFTWARE: New software available, please update to latest version","DESKRIPSI DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - Modul/antarmuka GPS: Arus di bawah sirkuit normal atau terbukaTautan prosisKesalahan aktif selama lebih dari 2 hariPERANGKAT LUNAK: Perangkat lunak baru tersedia, harap perbarui ke versi terbaru",12541
+AC0867438,A60H3210,2024-12-01T21:33:49Z,A60H,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysSOFTWARE: New software available, please update to latest version","DESKRIPSI DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - Modul/antarmuka GPS: Arus di bawah sirkuit normal atau terbukaTautan prosisKesalahan aktif selama lebih dari 2 hariPERANGKAT LUNAK: Perangkat lunak baru tersedia, harap perbarui ke versi terbaru",20369
+AC0867443,A40G3247,2024-12-01T22:33:52Z,A40G,MID146PID415FMI4,ECC-ECU - Air Conditioner Refrigerant High Pressure Side: Voltage below normal or shorted to lower voltage,Awaiting Acknowledgement,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID146 PID415 FMI4 - ECC-ECU - Air Conditioner Refrigerant High Pressure Side: Voltage below normal or shorted to lower voltage Prosis linkFault active for more than 2 daysSOFTWARE: New software available, please update to latest version","DESKRIPSI DTC: Deskripsi Alarm KesalahanMID146 PID415 FMI4 - ECC-ECU - Refrigeran Pendingin Udara Sisi Tekanan Tinggi: Tegangan di bawah normal atau korsleting ke tegangan yang lebih rendahTautan prosisKesalahan aktif selama lebih dari 2 hariPERANGKAT LUNAK: Perangkat lunak baru tersedia, harap perbarui ke versi terbaru",12541
+AC0881092,L110H0021,2024-12-13T07:05:18Z,L110H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed,View Case Notes,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 17203815 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L110H010212
+B150F1D
+GPS Antenna: Circuit current out of range
+4
+
+
+L110H010212
+B152A64
+Air Conditioning System: Signal","DTC DESCRIPCIÓN(ES): Descripción de la alarma de errorC101C00 - Unidad de control electrónico de la máquina de uso general 1 - Fuga de presión de frenoEnlace de prosisSugerencia:17271141 (SENSOR DE PRESIÓN) 17203815 (BOMBA HIDRÁULICA)SOFTWARE: Nuevo software disponible, actualice a la última versiónINFORMACIÓN ADICIONAL : Otros errores de TC
+
+
+ID del chasis*
+Formato de falla 1
+Tipo de error/alarma
+Nº de errores
+
+
+L110H010212
+B150F1D
+Antena GPS: Corriente del circuito fuera de rango
+4",37914
+AC0885095,L110H0021,2024-12-17T15:20:36Z,L110H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed,View Case Notes,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 17203815 (HYDRAULIC PUMP)SOFTWARE: New software available, please update to latest versionSOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors    
+
+
+Chassis Id*
+Priority
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L110H010212
+1
+B150F1D
+GPS Antenna: Circuit current out of range
+2
+
+
+L110H010212
+1
+B152A64
+Air Conditioning System: Signal plausibility failure
+23
+
+
+L110H010212
+1
+C101600
+Secondary Steering Pump Malfunction: No additional information
+24
+
+
+L110H010212
+1
+C101C00
+Brake Pressure Leakage: No additional information
+17
+
+
+L110H010212
+1
+P103411
+Boom Angle Channel 1: Circuit short to ground
+24
+
+
+L110H010212
+1
+P103412
+Boom Angle Channel 1: Circuit short to battery
+7
+
+
+L110H010212
+1
+P103511
+Boom Angle Channel 2: Circuit short to ground
+24
+
+
+L110H010212
+1
+P103512
+","DTC DESCRIPCIÓN(ES): Descripción de la alarma de errorC101C00 - Unidad de control electrónico de la máquina de uso general 1 - Fuga de presión de frenoEnlace de prosisSugerencia:17271141 (SENSOR DE PRESIÓN) 17203815 (BOMBA HIDRÁULICA)SOFTWARE: Nuevo software disponible, actualice a la última versiónSOFTWARE: Nuevo software disponible, actualice a la última versiónINFORMACIÓN ADICIONAL : Otros errores de TC   
+
+
+ID del chasis*
+Prioridad
+Formato de falla 1
+Tipo de error/alarma
+Nº de errores
+
+
+L110H010212
+1
+B150F1D
+Antena GPS: Corriente del circuito fuera de rango
+2
+
+
+L110H010212
+1
+B152A64
+Sistema de aire acondicionado: Fallo de plausibilidad de la señal
+23
+
+
+L110H010212
+1
+C101600
+Mal funcionamiento de la bomba de dirección secundaria: No hay información adicional
+24
+
+
+L110H010212
+1
+C101C00
+Fuga de presión de frenado: No hay información adicional
+17
+
+
+L110H010212
+1
+P103411
+Canal 1 del ángulo de la pluma: Cortocircuito a tierra
+24
+
+
+L110H010212
+1
+P103412
+Canal 1 del ángulo de la pluma: cor",37948
+AC0904865,L90H0138,2025-01-10T10:57:31Z,L90H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed Incomplete,customer gave no details,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 11383002 (ELECTRONIC UNIT) 15188954 (RETURN VALVE) 15081288 (CONTROL VALVE) 15097478 (SOLENOID COIL)SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L90H013383
+C101C00
+Brake Pressure Leakage: No additional information
+6
+
+
+L90H013383
+P101400
+Unknown: No additional information
+2
+
+
+","Descrição(ões) do DTC: Descrição do alarme de erroC101C00 - Unidade de Controle Eletrônico de Máquina de Uso Geral 1 - Vazamento de Pressão de FreioLink da prosisDica: 17271141 (SENSOR DE PRESSÃO) 11383002 (UNIDADE ELETRÔNICA) 15188954 (VÁLVULA DE RETORNO) 15081288 (VÁLVULA DE CONTROLE) 15097478 (BOBINA SOLENÓIDE)SOFTWARE: Novo software disponível, atualize para a versão mais recenteINFORMAÇÕES ADICIONAIS : Outros erros de TC
+
+
+ID do chassi*
+Formato de falha 1
+Tipo de erro/alarme
+Nº de erros
+
+
+L90H013383
+C101C00
+Vazamento de pressão de freio: Nenhuma informação adicional
+6
+
+
+L90H013383
+P101400
+Desconhecido: Nenhuma informação adicional
+2
+
+
+",8280
+AC0905749,A60H3210,2025-01-11T06:42:27Z,A60H,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysSOFTWARE: New software available, please update to latest version","DESKRIPSI DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - Modul/antarmuka GPS: Arus di bawah sirkuit normal atau terbukaTautan prosisKesalahan aktif selama lebih dari 2 hariPERANGKAT LUNAK: Perangkat lunak baru tersedia, harap perbarui ke versi terbaru",20726
+AC0909433,A40G3247,2025-01-15T04:42:55Z,A40G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysSOFTWARE: New software available, please update to latest version","DESKRIPSI DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - Modul/antarmuka GPS: Arus di bawah sirkuit normal atau terbukaTautan prosisKesalahan aktif selama lebih dari 2 hariPERANGKAT LUNAK: Perangkat lunak baru tersedia, harap perbarui ke versi terbaru",15520
+AC0917828,L70H0138,2025-01-22T12:05:30Z,L70H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed,View Case Notes,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17203815 (HYDRAULIC PUMP) 15097478 (SOLENOID COIL) 17271141 (PRESSURE SENSOR)SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L70H015389
+C101C00
+Brake Pressure Leakage: No additional information
+18
+
+
+L70H015389
+P008700
+Fuel Rail/System Pressure - Too Low Bank 1: No additional information
+1
+
+
+L70H015389
+P016F00
+Closed Loop Fuel Pressure Control At Limit - Pressure Too Low: No additional information
+15
+
+
+L70H015389
+P228F00
+Fuel Pressure Regulator 1 Exceeded Learning Limits - Too High: No additional information
+78
+
+
+","DTC DESCRIPCIÓN(ES): Descripción de la alarma de errorC101C00 - Unidad de control electrónico de la máquina de uso general 1 - Fuga de presión de frenoEnlace de prosisSugerencia:17203815 (BOMBA HIDRÁULICA) 15097478 (BOBINA SOLENOIDAL) 17271141 (SENSOR DE PRESIÓN)SOFTWARE: Nuevo software disponible, actualice a la última versiónINFORMACIÓN ADICIONAL : Otros errores de TC
+
+
+ID del chasis*
+Formato de falla 1
+Tipo de error/alarma
+Nº de errores
+
+
+L70H015389
+C101C00
+Fuga de presión de frenado: No hay información adicional
+18
+
+
+L70H015389
+P008700
+Presión del riel/sistema de combustible - Demasiado baja Banco 1: No hay información adicional
+1
+
+
+L70H015389
+P016F00
+Control de presión de combustible de circuito cerrado al límite - Presión demasiado baja: No hay información adicional
+15
+
+
+L70H015389
+P228F00
+Regulador de presión de combustible 1 Excedido los límites de aprendizaje - Demasiado alto: No hay información adicional
+78
+
+
+",9371
+AC0919103,L60H0146,2025-01-23T11:26:28Z,L60H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Closed,"Maintenance Control
+ras ",,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR)ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L60H014469
+C101500
+Alternator Charging Failure: No Sub Type Information
+25
+
+
+L60H014469
+C101C00
+Brake Pressure Leakage: No Sub Type Information
+3
+
+
+L60H014469
+P101400
+Unknown: No Sub Type Information
+1
+
+
+POSSIBLE OPERATOR BEHAVIOR IMPROVEMENTS: Please review previously reported operator behavior AC0899544","DESCRIPTION DU DTC : Description de l’alarme d’erreurC101C00 - Unité de commande électronique de machine à usage général 1 - Fuite de pression de freinageLien ProsisAstuce :17271141 (CAPTEUR DE PRESSION)INFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+L60H014469
+C101500
+Défaillance de charge de l’alternateur : aucune information sur le sous-type
+25
+
+
+L60H014469
+C101C00
+Fuite de pression de freinage : aucune information sur le sous-type
+3
+
+
+L60H014469
+P101400
+Inconnu : Aucune information sur le sous-type
+1
+
+
+AMÉLIORATIONS POSSIBLES DU COMPORTEMENT DE L’OPÉRATEUR : Veuillez consulter le comportement de l’opérateur précédemment signalé AC0899544",3396
+AC0998043,A25G3559,2025-02-21T09:28:05Z,A25G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Parking brake switch, status: Special instructions
+13
+
+
+A25G352599
+MID140PID379PIDTYPE2FMI14
+Door Status: Special instructions
+3
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+GPS module/interface: Current below normal or open circuit
+6
+
+
+","DESCRIPTION DU DTC : Description de l’alarme d’erreurMID142 PSID4 FMI5 - W-ECU - Module/interface GPS : Courant inférieur à la normale ou circuit ouvertLien ProsisDéfaut actif pendant plus de 2 joursINFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Contacteur de frein de stationnement, état : Instructions spéciales
+13
+
+
+A25G352599
+MID140PID379PIDTYPE2FMI14
+État de la porte : Instructions spéciales
+3
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+Module/interface GPS : Courant inférieur à la normale ou circuit ouvert
+6
+
+
+",632
+AC1001954,L90H0138,2025-02-25T09:17:01Z,L90H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 11383002 (ELECTRONIC UNIT) 15188954 (RETURN VALVE) 15081288 (CONTROL VALVE) 15097478 (SOLENOID COIL)SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L90H013383
+C101C00
+Brake Pressure Leakage: No additional information
+3
+
+
+L90H013383
+P101400
+Unknown: No additional information
+2
+
+
+","Descrição(ões) do DTC: Descrição do alarme de erroC101C00 - Unidade de Controle Eletrônico de Máquina de Uso Geral 1 - Vazamento de Pressão de FreioLink da prosisDica: 17271141 (SENSOR DE PRESSÃO) 11383002 (UNIDADE ELETRÔNICA) 15188954 (VÁLVULA DE RETORNO) 15081288 (VÁLVULA DE CONTROLE) 15097478 (BOBINA SOLENÓIDE)SOFTWARE: Novo software disponível, atualize para a versão mais recenteINFORMAÇÕES ADICIONAIS : Outros erros de TC
+
+
+ID do chassi*
+Formato de falha 1
+Tipo de erro/alarme
+Nº de erros
+
+
+L90H013383
+C101C00
+Vazamento de pressão de freio: Nenhuma informação adicional
+3
+
+
+L90H013383
+P101400
+Desconhecido: Nenhuma informação adicional
+2
+
+
+",8392
+AC1002053,A40G3247,2025-02-25T09:03:54Z,A40G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysSOFTWARE: New software available, please update to latest version","DESKRIPSI DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - Modul/antarmuka GPS: Arus di bawah sirkuit normal atau terbukaTautan prosisKesalahan aktif selama lebih dari 2 hariPERANGKAT LUNAK: Perangkat lunak baru tersedia, harap perbarui ke versi terbaru",16350
+AC1020221,L60H0146,2025-03-12T08:54:55Z,L60H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,Awaiting Acknowledgement,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR)ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L60H014469
+B152A64
+Air Conditioning System: Signal plausibility failure
+14
+
+
+L60H014469
+C101C00
+Brake Pressure Leakage: No additional information
+7
+
+
+L60H014469
+P065711
+Actuator Supply Voltage """"A"""": Circuit short to ground
+2
+
+
+L60H014469
+P101400
+Unknown: No additional information
+1
+
+
+POSSIBLE OPERATOR BEHAVIOR IMPROVEMENTS: Please review previously reported operator behavior 220 machine operating hours since last analyze of &ldquo;possible operator behavior improvements&rdquo;, see previously recommendations inAC0899544.","DESCRIPTION DU DTC : Description de l’alarme d’erreurC101C00 - Unité de commande électronique de machine à usage général 1 - Fuite de pression de freinageLien ProsisAstuce :17271141 (CAPTEUR DE PRESSION)INFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+L60H014469
+B152A64
+Système de climatisation : Défaillance de la plausibilité du signal
+14
+
+
+L60H014469
+C101C00
+Fuite de pression de freinage : Pas d’informations supplémentaires
+7
+
+
+L60H014469
+P065711
+Tension d’alimentation de l’actionneur « A » : Court-circuit à la terre
+2
+
+
+L60H014469
+P101400
+Inconnu : Aucune information supplémentaire
+1
+
+
+AMÉLIORATIONS POSSIBLES DU COMPORTEMENT DE L’OPÉRATEUR : Veuillez consulter le comportement de l’opérateur précédemment signalé 220 heures de fonctionnement de la machine depuis la dernière analyse des « améliorations possibles du comportement de l’opérateur », voir les recommandations précédentes dansAC0899544.",3551
+AC1029265,A60H3210,2025-03-19T20:03:25Z,A60H,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,Awaiting Acknowledgement,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 daysSOFTWARE: New software available, please update to latest version","Deskripsi DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - MODUL/ANTARMUKA GPS: Arus di bawah sirkuit normal atau terbukaTautan ProsisKesalahan aktif selama lebih dari 2 hariPERANGKAT LUNAK: Perangkat lunak baru tersedia, silakan perbarui ke versi terbaru",20994
+AC1049626,A25G3559,2025-04-02T12:59:53Z,A25G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+A25G352599
+MID140PID155PIDTYPE3FMI2
+System diagnostic code #5: Data erratic, intermittent, or incorrect
+1
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Parking brake switch, status: Special instructions
+3
+
+
+A25G352599
+MID140PID379PIDTYPE2FMI14
+Door Status: Special instructions
+2
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+GPS module/interface: Current below normal or open circuit
+22
+
+
+","DESCRIPTION DU DTC : Description de l’alarme d’erreurMID142 PSID4 FMI5 - W-ECU - Module/interface GPS : Courant inférieur à la normale ou circuit ouvertLien ProsisDéfaut actif pendant plus de 2 jours
+INFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+A25G352599
+MID140PID155PIDTYPE3FMI2
+Code de diagnostic système #5 : Données erratiques, intermittentes ou incorrectes
+1
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Contacteur de frein de stationnement, état : Instructions spéciales
+3
+
+
+A25G352599
+MID140PID379PIDTYPE2FMI14
+État de la porte : Instructions spéciales
+2
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+Module/interface GPS : Courant inférieur à la normale ou circuit ouvert
+22
+
+
+",783
+AC1057783,A40G3247,2025-04-06T09:33:55Z,A40G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+SOFTWARE: New software available, please update to latest version","Deskripsi DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - MODUL/ANTARMUKA GPS: Arus di bawah sirkuit normal atau terbukaTautan ProsisKesalahan aktif selama lebih dari 2 hari
+PERANGKAT LUNAK: Perangkat lunak baru tersedia, silakan perbarui ke versi terbaru",17207
+AC1089381,L60H0146,2025-04-23T08:08:35Z,L60H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR)
+ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L60H014469
+B152317
+Cab Interior Temperature Sensor Circuit: Circuit voltage above threshold
+3
+
+
+L60H014469
+B152A64
+Air Conditioning System: Signal plausibility failure
+10
+
+
+L60H014469
+C101500
+Alternator Charging Failure: Unknown
+1
+
+
+L60H014469
+C101C00
+Brake Pressure Leakage: Unknown
+4
+
+
+L60H014469
+P009013
+Fuel Pressure Regulator 1 Control: Circuit open
+1
+
+
+L60H014469
+P253913
+Low Pressure Fuel System Sensor Circuit: Circuit open
+1
+
+
+L60H014469
+U029D00
+Lost Communication with NOx Sensor A: Unknown
+2
+
+
+L60H014469
+U029E00
+Lost Communication with NOx Sensor B: Unknown
+1
+
+
+POSSIBLE OPERATOR BEHAVIOR IMPROVEMENTS: Action recommended – From Matris differential analysisBased on information between 3328-3498 operating hours.","DESCRIPTION DU DTC : Description de l’alarme d’erreurC101C00 - Unité de commande électronique de machine à usage général 1 - Fuite de pression de freinageLien ProsisAstuce :17271141 (CAPTEUR DE PRESSION)INFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+L60H014469
+B152317
+Circuit du capteur de température intérieure de la cabine : tension du circuit supérieure au seuil
+3
+
+
+L60H014469
+B152A64
+Système de climatisation : Défaillance de la plausibilité du signal
+10
+
+
+L60H014469
+C101500
+Échec de charge de l’alternateur : Inconnu
+1
+
+
+L60H014469
+C101C00
+Fuite de pression de freinage : Inconnue
+4
+
+
+L60H014469
+P009013
+Régulateur de pression de carburant 1 Commande : Circuit ouvert
+1
+
+
+L60H014469
+P253913
+Circuit du capteur du système de carburant basse pression : Circuit ouvert
+1
+
+
+L60H014469
+U029D00
+Perte de communication avec le capteur de NOx A : Inconnu
+2
+
+
+L60H014469
+U029E00
+Perte de communication avec le capteur de ",3696
+AC1099770,A60H3210,2025-04-29T07:13:46Z,A60H,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+SOFTWARE: New software available, please update to latest version","Deskripsi DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - MODUL/ANTARMUKA GPS: Arus di bawah sirkuit normal atau terbukaTautan ProsisKesalahan aktif selama lebih dari 2 hari
+PERANGKAT LUNAK: Perangkat lunak baru tersedia, silakan perbarui ke versi terbaru",21231
+AC1146672,L90H0138,2025-05-21T08:55:04Z,L90H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 11383002 (ELECTRONIC UNIT) 15188954 (RETURN VALVE) 15081288 (CONTROL VALVE) 15097478 (SOLENOID COIL)
+ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L90H013383
+B152964
+Air Conditioning Condenser: Signal plausibility failure
+2
+
+
+L90H013383
+B152A64
+Air Conditioning System: Signal plausibility failure
+1
+
+
+L90H013383
+C101311
+Outgoing Brake Pressure Sensor Circuit: Circuit short to ground
+1
+
+
+L90H013383
+C101C00
+Brake Pressure Leakage: No additional information
+10
+
+
+L90H013383
+P101400
+Unknown: No additional information
+1
+
+
+","Descrição(ões) do DTC: Descrição do alarme de erroC101C00 - Unidade de Controle Eletrônico de Máquina de Uso Geral 1 - Vazamento de Pressão de FreioLink da prosisDica: 17271141 (SENSOR DE PRESSÃO) 11383002 (UNIDADE ELETRÔNICA) 15188954 (VÁLVULA DE RETORNO) 15081288 (VÁLVULA DE CONTROLE) 15097478 (BOBINA SOLENÓIDE)INFORMAÇÕES ADICIONAIS : Outros erros de TC
+
+
+ID do chassi*
+Formato de falha 1
+Tipo de erro/alarme
+Nº de erros
+
+
+L90H013383
+B152964
+Condensador de ar condicionado: falha de plausibilidade de sinal
+2
+
+
+L90H013383
+B152A64
+Sistema de ar condicionado: falha de plausibilidade de sinal
+1
+
+
+L90H013383
+C101311
+Circuito do sensor de pressão do freio de saída: circuito curto com o terra
+1
+
+
+L90H013383
+C101C00
+Vazamento de pressão de freio: Nenhuma informação adicional
+10
+
+
+L90H013383
+P101400
+Desconhecido: Nenhuma informação adicional
+1
+
+
+",8578
+AC1150603,A25G3559,2025-05-22T14:16:52Z,A25G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,Awaiting Acknowledgement,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+A25G352599
+MID140PID155PIDTYPE3FMI2
+System diagnostic code #5: Data erratic, intermittent, or incorrect
+1
+
+
+A25G352599
+MID187PID1388PIDTYPE0FMI14
+Operator seat belt indication: Special instructions
+5
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Parking brake switch, status: Special instructions
+2
+
+
+A25G352599
+MID140PID379PIDTYPE2FMI14
+Door Status: Special instructions
+2
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+GPS module/interface: Current below normal or open circuit
+13
+
+
+","DESCRIPTION DU DTC : Description de l’alarme d’erreurMID142 PSID4 FMI5 - W-ECU - Module/interface GPS : Courant inférieur à la normale ou circuit ouvertLien ProsisDéfaut actif pendant plus de 2 jours
+INFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+A25G352599
+MID140PID155PIDTYPE3FMI2
+Code de diagnostic système #5 : Données erratiques, intermittentes ou incorrectes
+1
+
+
+A25G352599
+MID187PID1388PIDTYPE0FMI14
+Indication de la ceinture de sécurité de l’opérateur : Instructions spéciales
+5
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Contacteur de frein de stationnement, état : Instructions spéciales
+2
+
+
+A25G352599
+MID140PID379PIDTYPE2FMI14
+État de la porte : Instructions spéciales
+2
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+Module/interface GPS : Courant inférieur à la normale ou circuit ouvert
+13
+
+
+",910
+AC1177040,L60H0146,2025-06-04T11:21:39Z,L60H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR)
+ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L60H014469
+B152317
+Cab Interior Temperature Sensor Circuit: Circuit voltage above threshold
+18
+
+
+L60H014469
+C101C00
+Brake Pressure Leakage: Unknown
+5
+
+
+L60H014469
+P101400
+Unknown: Unknown
+2
+
+
+POSSIBLE OPERATOR BEHAVIOR IMPROVEMENTS: Matris download not available within time limit. Operator behavior could not be reviewed.See AC1089381","DESCRIPTION DU DTC : Description de l’alarme d’erreurC101C00 - Unité de commande électronique de machine à usage général 1 - Fuite de pression de freinageLien ProsisAstuce :17271141 (CAPTEUR DE PRESSION)INFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+L60H014469
+B152317
+Circuit du capteur de température intérieure de la cabine : tension du circuit supérieure au seuil
+18
+
+
+L60H014469
+C101C00
+Fuite de pression de freinage : Inconnue
+5
+
+
+L60H014469
+P101400
+Inconnu : Inconnu
+2
+
+
+AMÉLIORATIONS POSSIBLES DU COMPORTEMENT DE L’OPÉRATEUR : Le téléchargement de Matris n’est pas disponible dans le temps imparti. Le comportement de l’opérateur n’a pas pu être examiné.Voir AC1089381",3809
+AC1185727,A60H3210,2025-06-08T11:32:52Z,A60H,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+A60H320100
+PA020
+PMA/FT
+266894
+Broken fan radiator
+05/28/2025 00:00:00
+05/30/2026 00:00:00
+
+
+","Deskripsi DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - MODUL/ANTARMUKA GPS: Arus di bawah sirkuit normal atau terbukaTautan ProsisKesalahan aktif selama lebih dari 2 hari
+PERANGKAT LUNAK: Perangkat lunak baru tersedia, silakan perbarui ke versi terbaruSTATUS KAMPANYE: Kampanye tersedia - Silakan lakukan kampanye yang tersedia
+
+
+ID Sasis
+Kode SCC
+Deskripsi Tipe SCC
+ID Kampanye
+Judul Kampanye
+Tanggal Mulai Kampanye
+Tanggal Perbaikan Terakhir
+
+
+A60H320100
+PA020
+PMA / FT
+266894
+Radiator kipas rusak
+05/28/2025 00:00:00
+05/30/2026 00:00:00
+
+
+",21435
+AC1193525,L90H0138,2025-06-12T08:30:53Z,L90H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 11383002 (ELECTRONIC UNIT) 15188954 (RETURN VALVE) 15081288 (CONTROL VALVE) 15097478 (SOLENOID COIL)
+SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L90H013383
+C101C00
+Brake Pressure Leakage: Unknown
+13
+
+
+L90H013383
+P101400
+Unknown: Unknown
+2
+
+
+","Descrição(ões) do DTC: Descrição do alarme de erroC101C00 - Unidade de Controle Eletrônico de Máquina de Uso Geral 1 - Vazamento de Pressão de FreioLink da prosisDica: 17271141 (SENSOR DE PRESSÃO) 11383002 (UNIDADE ELETRÔNICA) 15188954 (VÁLVULA DE RETORNO) 15081288 (VÁLVULA DE CONTROLE) 15097478 (BOBINA SOLENÓIDE)SOFTWARE: Novo software disponível, atualize para a versão mais recenteINFORMAÇÕES ADICIONAIS : Outros erros de TC
+
+
+ID do chassi*
+Formato de falha 1
+Tipo de erro/alarme
+Nº de erros
+
+
+L90H013383
+C101C00
+Vazamento de pressão de freio: Desconhecido
+13
+
+
+L90H013383
+P101400
+Desconhecido: Desconhecido
+2
+
+
+",8641
+AC1218956,A40G3247,2025-06-25T06:03:19Z,A40G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,Awaiting Acknowledgement,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+SOFTWARE: New software available, please update to latest version","Deskripsi DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - MODUL/ANTARMUKA GPS: Arus di bawah sirkuit normal atau terbukaTautan ProsisKesalahan aktif selama lebih dari 2 hari
+PERANGKAT LUNAK: Perangkat lunak baru tersedia, silakan perbarui ke versi terbaru",18652
+AC1238278,A25G3559,2025-07-03T14:15:00Z,A25G,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,Closed,Inspection scheduled for the next interview.,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+ADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+GPS module/interface: Current below normal or open circuit
+13
+
+
+A25G352599
+MID187PID1388PIDTYPE0FMI14
+Operator seat belt indication: Special instructions
+3
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+Parking Brake Switch Status: Special instructions
+2
+
+
+","DESCRIPTION DU DTC : Description de l’alarme d’erreurMID142 PSID4 FMI5 - W-ECU - Module/interface GPS : Courant inférieur à la normale ou circuit ouvertLien ProsisDéfaut actif pendant plus de 2 jours
+INFORMATIONS COMPLÉMENTAIRES : Autres erreurs CT
+
+
+ID du châssis*
+Format d’erreur 1
+Type d’erreur/d’alarme
+Nombre d’erreurs
+
+
+A25G352599
+MID142PID4PIDTYPE1FMI5
+Module/interface GPS : Courant inférieur à la normale ou circuit ouvert
+13
+
+
+A25G352599
+MID187PID1388PIDTYPE0FMI14
+Indication de la ceinture de sécurité de l’opérateur : Instructions spéciales
+3
+
+
+A25G352599
+MID187PID70PIDTYPE2FMI14
+État de l’interrupteur du frein de stationnement : Instructions spéciales
+2
+
+
+",1073
+AC1259520,A60H3210,2025-07-15T08:43:23Z,A60H,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+A60H320100
+PA020
+PMA/FT
+266894
+Broken fan radiator
+05/28/2025 00:00:00
+05/30/2026 00:00:00
+
+
+","Deskripsi DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - MODUL/ANTARMUKA GPS: Arus di bawah sirkuit normal atau terbukaTautan ProsisKesalahan aktif selama lebih dari 2 hari
+PERANGKAT LUNAK: Perangkat lunak baru tersedia, silakan perbarui ke versi terbaruSTATUS KAMPANYE: Kampanye tersedia - Silakan lakukan kampanye yang tersedia
+
+
+ID Sasis
+Kode SCC
+Deskripsi Tipe SCC
+ID Kampanye
+Judul Kampanye
+Tanggal Mulai Kampanye
+Tanggal Perbaikan Terakhir
+
+
+A60H320100
+PA020
+PMA / FT
+266894
+Radiator kipas rusak
+05/28/2025 00:00:00
+05/30/2026 00:00:00
+
+
+",21724
+AC1306715,L90H0138,2025-08-06T09:42:51Z,L90H,C101C00,General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionC101C00 - General Purpose Machine Electronic Control Unit 1 - Brake Pressure Leakage Prosis linkHint:17271141 (PRESSURE SENSOR) 11383002 (ELECTRONIC UNIT) 15188954 (RETURN VALVE) 15081288 (CONTROL VALVE) 15097478 (SOLENOID COIL)
+SOFTWARE: New software available, please update to latest versionADDITIONAL INFORMATION : Other CT errors
+
+
+Chassis Id*
+Fault Format 1
+Type of Error/Alarm
+No of Errors
+
+
+L90H013383
+C101C00
+Brake Pressure Leakage: Unknown
+11
+
+
+L90H013383
+P101400
+Hot Engine Shutdown: Unknown
+1
+
+
+","Descrição(ões) do DTC: Descrição do alarme de erroC101C00 - Unidade de Controle Eletrônico de Máquina de Uso Geral 1 - Vazamento de Pressão de FreioLink da prosisDica: 17271141 (SENSOR DE PRESSÃO) 11383002 (UNIDADE ELETRÔNICA) 15188954 (VÁLVULA DE RETORNO) 15081288 (VÁLVULA DE CONTROLE) 15097478 (BOBINA SOLENÓIDE)SOFTWARE: Novo software disponível, atualize para a versão mais recenteINFORMAÇÕES ADICIONAIS : Outros erros de TC
+
+
+ID do chassi*
+Formato de falha 1
+Tipo de erro/alarme
+Nº de erros
+
+
+L90H013383
+C101C00
+Vazamento de pressão de freio: Desconhecido
+11
+
+
+L90H013383
+P101400
+Desligamento do motor quente: desconhecido
+1
+
+
+",8893
+AC1342879,A60H3210,2025-08-24T09:23:43Z,A60H,MID142PSID4FMI5,W-ECU - GPS module/interface: Current below normal or open circuit,In Progress,,,,"DTC DESCRIPTION(S): Error Alarm descriptionMID142 PSID4 FMI5 - W-ECU - GPS module/interface: Current below normal or open circuit Prosis linkFault active for more than 2 days
+SOFTWARE: New software available, please update to latest versionCAMPAIGN STATUS: Campaign(s) available - Please conduct available campaign(s)
+
+
+Chassis ID
+SCC Code
+SCC Type Description
+Campaign Id
+Campaign Title
+Campaign Start Date
+Last Repair Date
+
+
+A60H320100
+PA020
+PMA/FT
+266894
+PMA/FT - Broken fan radiator
+05/28/2025 00:00:00
+05/30/2026 00:00:00
+
+
+","Deskripsi DTC: Deskripsi Alarm KesalahanMID142 PSID4 FMI5 - W-ECU - MODUL/ANTARMUKA GPS: Arus di bawah sirkuit normal atau terbukaTautan ProsisKesalahan aktif selama lebih dari 2 hari
+PERANGKAT LUNAK: Perangkat lunak baru tersedia, silakan perbarui ke versi terbaruSTATUS KAMPANYE: Kampanye tersedia - Silakan lakukan kampanye yang tersedia
+
+
+ID Sasis
+Kode SCC
+Deskripsi Tipe SCC
+ID Kampanye
+Judul Kampanye
+Tanggal Mulai Kampanye
+Tanggal Perbaikan Terakhir
+
+
+A60H320100
+PA020
+PMA / FT
+266894
+PMA/FT - Radiator kipas rusak
+05/28/2025 00:00:00
+05/30/2026 00:00:00
+
+
+",22159
